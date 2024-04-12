@@ -165,9 +165,6 @@ p::after{
         display: block;
         margin: 12px 0;
     }
-    nav{
-        top: 0;
-    }
 }
 @media  screen and (max-width: 700px) {
     .banner .welcome{
